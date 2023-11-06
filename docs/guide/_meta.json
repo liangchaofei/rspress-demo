@@ -1,0 +1,13 @@
+[
+    {
+      "type": "dir",
+      "name": "basic",
+      "label": "基础指南"
+    },
+    {
+        "type": "dir",
+        "name": "button",
+        "label": "按钮"
+      }
+  ]
+  
